@@ -1,0 +1,3 @@
+.character-card__body tr th {
+	@apply text-start font-normal text-base py-1 px-2;
+}

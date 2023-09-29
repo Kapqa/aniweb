@@ -1,0 +1,7 @@
+.anime-table__body tr:nth-child(odd) {
+	@apply bg-zinc-900;
+}
+
+.anime-table__body tr th {
+	@apply text-start font-normal text-base py-1 px-2;
+}
